@@ -1,8 +1,8 @@
 ## Oii! Eu sou o Jordan Cruz..
 <div align="left">
   <a href="https://github.com/Jordancsb">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Jordancsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordancsb&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jordancsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordancsb&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <div align="left">
